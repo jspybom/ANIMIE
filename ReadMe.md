@@ -1,15 +1,12 @@
 # Case Study: Animie
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/865420585437102090/1425196744031076544/image.png?ex=68e6b566&is=68e563e6&hm=28043d4ba6fc83a9b94552e0cfa56086326f1f468fb1a25df84f79352e561f68&" alt="Animie App Banner" width="100" height="100"/>
-  <img src="https://cdn.discordapp.com/attachments/865420585437102090/1425196675160473752/image.png?ex=68e6b556&is=68e563d6&hm=d350ae7fe1a7f1d422999e6d543fe65a2c6439d3d24b5fb675f953e0607d9624&" alt="Animie App Banner" width="100" height="100"/>
-</p>
+
 
 Animie is a dedicated streaming application for anime enthusiasts, offering the latest simulcast episodes, timeless classics, and exclusive titles. A premium, fan-centric platform designed for a smooth, ad-free viewing experience.
 
 | **Industry** | **Platforms** | **Status** |
 | :--- | :--- | :--- |
-| Entertainment / OTT | iOS, Android, Web | Completed |
+| Entertainment | iOS, Android, Web | Completed |
 
 ---
 
@@ -23,21 +20,26 @@ The challenge was to build a platform that could win the loyalty of this discern
 
 ## Our Solution: A Streaming Experience Built By Fans, For Fans
 
-Gamespacelab developed Animie as a premium destination for anime lovers. We focused on the details that matter most to the community, creating a platform that feels both authentic and technologically advanced. We combined a high-performance streaming backend with a user interface rich with features tailored to the anime viewing journey.
+Gamespacelab developed AnmLax as a premium destination for anime lovers. We focused on the details that matter most to the community, creating a platform that feels both authentic and technologically advanced. We combined a high-performance streaming backend with a user interface rich with features tailored to the anime viewing journey.
 
 The result is an app that respects the content and the community, fostering a dedicated user base.
 
-[Image showing the Animie app's discovery page and video player with subtitle options]
+## Snapshot of the Project
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/865420585437102090/1425196744031076544/image.png?ex=68e6b566&is=68e563e6&hm=28043d4ba6fc83a9b94552e0cfa56086326f1f468fb1a25df84f79352e561f68&" alt="Animie App Banner" width="100" height="100"/>
+  <img src="https://cdn.discordapp.com/attachments/865420585437102090/1425196675160473752/image.png?ex=68e6b556&is=68e563d6&hm=d350ae7fe1a7f1d422999e6d543fe65a2c6439d3d24b5fb675f953e0607d9624&" alt="Animie App Banner" width="100" height="100"/>
+</p>
 
 ### Key Features
 
-* **Simulcast Calendar & Notifications:** An integrated calendar tracks upcoming episode releases from Japan. Users can subscribe to their favorite shows and receive push notifications the moment a new episode is available with subtitles.
+1. **Simulcast Calendar & Notifications:** An integrated calendar tracks upcoming episode releases from Japan. Users can subscribe to their favorite shows and receive push notifications the moment a new episode is available with subtitles.
 
-* **Customizable Subtitle Engine:** We built a highly-customizable video player that allows users to change subtitle font size, color, and background to ensure optimal readability on any device.
+2. **Customizable Subtitle Engine:** We built a highly-customizable video player that allows users to change subtitle font size, color, and background to ensure optimal readability on any device.
 
-* **Advanced Discovery & Curation:** Beyond standard genres, we implemented a deep tagging system that allows users to discover new series based on specific themes, art styles, and tropes (e.g., #Isekai, #Mecha, #Shonen).
+3. **Advanced Discovery & Curation:** Beyond standard genres, we implemented a deep tagging system that allows users to discover new series based on specific themes, art styles, and tropes (e.g., #Isekai, #Mecha, #Shonen).
 
-* **Community Integration:** Users can create and share public watchlists, rate individual episodes, and participate in spoiler-protected discussions, building a vibrant community directly within the platform.
+4. **Community Integration:** Users can create and share public watchlists, rate individual episodes, and participate in spoiler-protected discussions, building a vibrant community directly within the platform.
 
 ---
 
@@ -60,11 +62,10 @@ Leveraging our expertise in building scalable media platforms, we used a robust,
 
 Animie successfully captured a dedicated segment of the anime streaming market by focusing on a quality user experience.
 
-* **40% Day-One User Retention:** The platform's features, particularly the simulcast notifications, led to exceptionally high user retention.
-* **#1 Requested Feature:** The customizable subtitle engine was overwhelmingly praised in user reviews as a key differentiator.
-* **Vibrant Community Growth:** Over 100,000 user-created watchlists were made in the first three months, demonstrating deep engagement with the community features.
+1. **67% Day-One User Retention:** The platform's features, particularly the simulcast notifications, led to exceptionally high user retention.
+2. **#1 Requested Feature:** The customizable subtitle engine was overwhelmingly praised in user reviews as a key differentiator.
+3. **Vibrant Community Growth:** Over 100,000 user-created watchlists were made in the first months, demonstrating deep engagement with the community features.
 
 ### Testimonial
 
 > *"Gamespacelab understood that to succeed, we needed to be more than just another streaming service. They delivered a technically flawless platform with the specific features our community craves. Their work was instrumental in our launch."*
-> – [Name, CEO, Client Company]
