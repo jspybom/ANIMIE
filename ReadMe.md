@@ -7,9 +7,9 @@
 
 Animie is a dedicated streaming application for anime enthusiasts, offering the latest simulcast episodes, timeless classics, and exclusive titles. A premium, fan-centric platform designed for a smooth, ad-free viewing experience.
 
-| **Client** | **Industry** | **Platforms** | **Status** |
-| :--- | :--- | :--- | :--- |
-| [Name of Entertainment/Media Client] | Entertainment / OTT | iOS, Android, Web | Completed |
+| **Industry** | **Platforms** | **Status** |
+| :--- | :--- | :--- |
+| Entertainment / OTT | iOS, Android, Web | Completed |
 
 ---
 
